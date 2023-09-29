@@ -1,4 +1,4 @@
-<a href="https://discord.gg/pochita"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<a href="https://github.com/PraveenDev111/PraveenDev111/blob/main/gitcover.jpeg"><img src="https://github.com/PraveenDev111/PraveenDev111/blob/main/gitcover.jpeg" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -12,7 +12,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-
 <br/>
 
 <p>
@@ -49,7 +48,7 @@ Hi 👋, I am **Praveen Dev** an enthusiastic and ambitious full stack developer
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="38%" src="https://github.com/PraveenDev111/PraveenDev111/blob/main/image.jpeg"/>
 
   <a href="https://github.com/PraveenDev111/"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=PraveenDev111&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/PraveenDev111/"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=PraveenDev111&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>

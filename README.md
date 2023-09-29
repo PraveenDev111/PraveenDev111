@@ -1,9 +1,9 @@
 <img src="https://github.com/PraveenDev111/PraveenDev111/blob/main/gitcvr.jpeg" width="100%" height="auto"/>
 
 <br/>
-<h4 align="center">
+<p align="center">
 Hi 👋, I am Praveen Dev an enthusiastic and ambitious full stack developer, concentrated on unique and creative designs. I love to learn and become a product manager. I specialise in Web Development,platform independent Mobile app development and UI/UX. I love to network, join new communities and add value ✨
-</h4>
+</p>
 
 <p>
 <div>

@@ -1,4 +1,4 @@
-<img src="https://github.com/PraveenDev111/PraveenDev111/blob/main/gitcover.jpeg" width="100%" height="auto"/>
+<img src="https://github.com/PraveenDev111/PraveenDev111/blob/main/gitcvr.jpeg" width="100%" height="auto"/>
 
 <br/>
 <h4 align="center">

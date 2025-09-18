@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-Hi 👋, I am Praveen Dev an enthusiastic and ambitious full stack developer, concentrated on unique and creative designs. I love to learn and become a product manager. I specialise in Web Development, Wordpress Development, System Administration, Engineering,platform independent Mobile app development and UI/UX. I love to network, join new communities and add value ✨
+Hi 👋, I am Praveen Dev an enthusiastic and ambitious computer scientist, concentrated on unique and creative designs. I love to learn and become an expert in the field. I specialise in Web Development, System Administration, DevOps, Cloud Engineering, Wordpress Development, platform independent Mobile app development and UI/UX. I love to network, join new communities and add value ✨
 </p>
 
 <p>
